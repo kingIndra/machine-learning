@@ -165,4 +165,5 @@ def train_model(EPOCHS):
 
 
 if __name__ == '__main__':
-    train_model(200)
+    # train_model(200)
+    print('Building on Jenkins')
